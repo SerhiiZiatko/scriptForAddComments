@@ -20,7 +20,6 @@ a{
 }
 
 .name{
-	margin-top: ;
 	font:bold 16px/20px "Arial", sans-serif;
 	color: #333;
 }
@@ -193,7 +192,7 @@ a{
 	border-right:4px solid transparent;
 }
 
-.comentsForm{
+.commentsForm{
 	background: #f2f2f2;
 	margin:0 -20px 0 -20px;
 	padding: 30px 20px 35px 20px;
